@@ -121,7 +121,7 @@ html {
 }
 
 .logo img {
-    height: 50px;          /* Mantém o tamanho da sua imagem */
+    height: 70px;          /* Mantém o tamanho da sua imagem */
     display: block;        
 }
 
@@ -276,7 +276,7 @@ html {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -395,7 +395,7 @@ html {
 
 /* -------------------- RODAPÉ -------------------- */
 .footer {
-    display: flex;
+    display: block;
     background-color: var(--primary-blue);
     color: var(--light-text);
     padding: 20px 5%;
